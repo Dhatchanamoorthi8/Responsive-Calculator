@@ -1,0 +1,205 @@
+@media (max-width: 575.98px) { 
+    .phone-img{
+        height: 50%;
+        width: 100%;
+    }
+    .input-values{
+        position: absolute;
+        top: 37%;
+        left: 12.5%;
+    }
+    .input{
+        position: absolute;
+        top: 20%;
+        left: 10%;
+    }
+    .input > input{
+        outline: none;
+        border: none;
+        height: 50%;
+        width: 115%;
+        background-color: transparent;
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    .input{
+        margin: 5px;
+        border-radius: 5px;
+    
+    }
+    .input > input{
+        outline: none;
+        border-radius: 15px;
+        border: none;
+        font-size: 30px;
+        font-weight: 200;
+        
+    }
+    .input-values{
+        display: flex;
+        flex-wrap: wrap;
+        height: 200px;
+        width: 350px;
+        gap: 6px;
+        
+    }
+    .input-values > input{
+        outline: none;
+        border-radius: 15px;
+        border: none;
+    }
+    #one{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+    }
+    #two{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+    }
+    #three{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+    }
+    #four{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+    }
+    #five{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+    }
+    #six{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+    }
+    #seven{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+    }
+    #eight{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+    }
+    #nine{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+    }
+    #allclr{
+        height: 35%;
+        width: 20%;
+        font-size: 25px;
+        font-weight: 400;
+        background-color: #7e8285;
+        color: #f9f5f2;
+    }
+    #plus{
+        height: 35%;
+        width: 20%;
+        font-size: 35px;
+        font-weight: 400;
+        background-color: #e69227;
+        color: #f9f5f2;
+    }
+    #minus{
+        height: 35%;
+        width: 20%;
+        font-size: 40px;
+        font-weight: 400;
+        background-color: #e69227;
+        color: #f9f5f2;
+    }
+    #divi{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #e69227;
+        color: #f9f5f2;
+    }
+    #multi{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #e69227;
+        color: #f9f5f2;
+    }
+    #module{
+        height: 35%;
+        width: 20%;
+        font-size: 27px;
+        font-weight: 400;
+        background-color: #7e8285;
+        color: #f9f5f2;
+    }
+    #equal{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #e69227;
+        color: #f9f5f2;
+    }
+    #clr{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 200;
+        color: #f9f5f2;
+    }
+    #delete{
+        height: 35%;
+        width: 20%;
+        font-size: 27px;
+        font-weight: 400;
+        border-radius: 15px;
+        text-align: center;
+        border: none;
+        background-color: #7e8285;
+        color: #f9f5f2;
+    }
+    #zero1{
+        height: 35%;
+        width: 42%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+        color: #f9f5f2;
+    }
+    #comma{
+        height: 35%;
+        width: 20%;
+        font-size: 30px;
+        font-weight: 400;
+        background-color: #3b3c3e;
+        color: #f9f5f2;
+        padding-top: 17px;
+    }
+}
